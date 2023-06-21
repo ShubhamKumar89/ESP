@@ -78,9 +78,9 @@
 # are empty. Otherwise, this application will not be configured properly.
 profiles:
 
-  - git_remote_url: https://github.com/ShubhamKumar89/esp-profile-ubuntu.git
+  - git_remote_url: https://github.com/ShubhamKumar89/profiles.git
     profile_branch: slim
-    profile_base_branch: master
+    profile_base_branch: main
     git_username: ""
     git_token: ""
     # This is the name that will be shown on the PXE menu (NOTE: No Spaces)
